@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "taha-plugins": {
+      "source": { "source": "github", "repo": "tahablog1-blip/QuizMaster-Unity-Phase1" }
+    }
+  },
+  "enabledPlugins": {
+    "ui-ux-pro-max@taha-plugins": true
+  }
+}
